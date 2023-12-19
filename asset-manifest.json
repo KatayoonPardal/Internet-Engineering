@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Internet-Engineering/static/css/main.e6c13ad2.css",
+    "main.js": "/Internet-Engineering/static/js/main.a7ff347a.js",
+    "static/js/787.a220aa5a.chunk.js": "/Internet-Engineering/static/js/787.a220aa5a.chunk.js",
+    "index.html": "/Internet-Engineering/index.html",
+    "main.e6c13ad2.css.map": "/Internet-Engineering/static/css/main.e6c13ad2.css.map",
+    "main.a7ff347a.js.map": "/Internet-Engineering/static/js/main.a7ff347a.js.map",
+    "787.a220aa5a.chunk.js.map": "/Internet-Engineering/static/js/787.a220aa5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a7ff347a.js"
+  ]
+}
